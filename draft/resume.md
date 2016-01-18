@@ -12,7 +12,7 @@ Bachelor of Science – **Computer Science** _3.4 GPA_
 
 Graduating: **July 2016**
 
-**Electives**
+####Electives:
 
 Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web development, Networking, Algorithms and Complexity
 
