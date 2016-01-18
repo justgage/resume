@@ -55,3 +55,11 @@ p {
    margin-top:0.1em;
    margin-bottom:0.5em;
 }
+
+code {
+   font-family: monospace;
+   background-color: lightgray;
+   padding: 1em;
+   display:block;
+   border-radius: 10px;
+}

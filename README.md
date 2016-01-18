@@ -66,3 +66,6 @@ Sample Projects
 
 **[Jarl](https://github.com/justgage/jarl)** - A game made in pure JavaScript and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
 
+```
+git clone https://github.com/justgage/resume
+```

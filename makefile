@@ -1,5 +1,5 @@
 source = draft/resume.md
-dest_name = "GageKPetersonsResume"
+dest_name = "resume-in-many-formats/GageKPetersonsResume"
 
 build: cp md docx html
 
@@ -15,3 +15,4 @@ html:
 
 docx:
 	 pandoc $(source) -o $(dest_name).docx
+
