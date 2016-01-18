@@ -1,0 +1,57 @@
+* {
+   font-family:serif;
+   font-size:14px;
+   line-height: 1.1em;
+}
+
+body {
+   width: 100%;
+   margin: 0 3em;
+}
+
+h1, h2, h3, h4 {
+   font-family:bold;
+   margin-bottom: 0.5em;
+   margin-top: 0.5em;
+}
+
+h1 {
+   font-size:2em;
+   margin-left: -1em;
+}
+
+h2 {
+   font-size:1.5em;
+   margin-left: -1em;
+   border-bottom: 1px solid black;
+}
+
+h3 {
+   font-size:1.3em;
+   margin-bottom:0.1em;
+}
+
+h4 {
+   font-size:1em;
+}
+
+a {
+   color: black;
+   text-decoration:none;
+}
+
+a:hover {
+   color: black;
+   text-decoration:underline;
+}
+
+ul {
+   margin-top: 0em;
+   margin-bottom: 0em;
+
+}
+
+p {
+   margin-top:0.1em;
+   margin-bottom:0.5em;
+}
