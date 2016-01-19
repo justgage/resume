@@ -12,20 +12,22 @@ Bachelor of Science – **Computer Science** _3.4 GPA_
 
 Graduating: **July 2016**
 
-####Electives:
+**ACM Vice-Chair** - Winter 2015 Semester
+
+####Areas of Interest:
 
 Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web development, Networking, Algorithms and Complexity
 
 ####Software Development Projects:
 
-- [**SENIOR PROJECT: Cog Programming Language**](https://github.com/justgage/cog-lang) - Written in OCaml
-- [**Sudoku solver**](https://github.com/justgage/AI/tree/master/project1) - Written in Lisp, using backtracking and arc-consistency
-- [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants, made for a sponsor. Written in Java
-- [**FoodNotes**](https://github.com/justgage/FoodNotes) - A project created with 2 other students that tracked food allergies. Written in Java
+- [**SENIOR PROJECT: CogLang**](https://github.com/justgage/cog-lang) - A programing language interpeter. Written in OCaml
+- [**Sudoku solver**](https://github.com/justgage/AI/tree/master/project1) - A Sudoku solver that uses backtracking and arc-consistency. Written in ELisp
+- [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants. Written in Java
+- [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web application created with two other students that tracked food allergies. Written in Java
 
 Skills:
 ------
-JavaScript, React.js, ES6 , C++, OCaml, Ruby, Java, Python, Elixir / Phoenix, Clojure
+JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Clojure
 
 Job Experience
 --------------
@@ -33,7 +35,7 @@ Job Experience
 ###Sterling Medical - Software Developer
 January 2015-Present
 
-- Developing on a mobile app using the Ionic framework
+- Developing a mobile app using the Ionic framework
 
 ###BYU-Idaho - Teacher's Assistant 
 September-December 2015

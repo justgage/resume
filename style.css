@@ -1,12 +1,12 @@
 * {
    font-family:serif;
-   font-size:14px;
+   font-size:13px;
    line-height: 1.1em;
 }
 
 body {
-   width: 100%;
-   margin: 0 3em;
+   width: 90%;
+   margin: 0 5%;
 }
 
 h1, h2, h3, h4 {
