@@ -40,7 +40,7 @@ Job Experience
 --------------
 
 ###Sterling Medical - Software Developer
-January 2015-Present
+January 2016-Present
 
 - Developing a mobile app using the Ionic framework
 
