@@ -27,3 +27,4 @@ ghpages:
 	git rebase master
 	git push
 	git checkout master
+	git push
