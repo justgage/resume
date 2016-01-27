@@ -5,4 +5,4 @@ Thank You for looking at my resume! If Markdown isn't your thing you can find li
 - [Just HTML](http://justgage.github.io/resume/resume-in-many-formats/GageKPetersonsResume.html) 
 - [Markdown](https://github.com/justgage/resume/blob/master/resume-in-many-formats/GageKPetersonsResume.md)
 
----------------------
+***
