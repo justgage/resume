@@ -22,3 +22,7 @@ pdf:
 	# Manually print to pdf in chrome.
 	# TODO: make this be able to happend from he commandline
 
+ghpages:
+	git checkout gh-pages
+	git rebase master
+	git checkout master
