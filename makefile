@@ -24,7 +24,7 @@ pdf:
 
 ghpages:
 	git checkout gh-pages
-	git rebase master
+	git cherry-pick master
 	git push
 	git checkout master
 	git push
