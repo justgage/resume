@@ -25,7 +25,7 @@ Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web developm
 - [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants. Written in Java
 - [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web application created with two other students that tracked food allergies. Written in Java
 
-Skills:
+Skills
 ------
 JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Clojure
 
