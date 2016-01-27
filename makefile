@@ -25,4 +25,6 @@ pdf:
 ghpages:
 	git checkout gh-pages
 	git rebase master
+	git push # this may not be needed
 	git checkout master
+	git push
