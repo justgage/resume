@@ -84,20 +84,18 @@ June-October 2013
 Sample Projects
 ---------------
 
-**[Mini-Journal](https://github.com/justgage/mini-journal)** -
-command-line based journaling program that allows you to easily catch up
-any missed days, written in OCaml
-
 **[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich
 content editing system using JavaScript and the React.js framework
+
+**[Budget](https://github.com/justgage/budget)** - A simple command-line
+program to keep track of a budget. Written in Elixir
 
 **[Jarl](https://github.com/justgage/jarl)** - A game made in pure
 JavaScript and CSS3 transitions for the js13KGames competition. It uses
 prototypal inheritance heavily
 
-**[Budget](https://github.com/justgage/budget)** - A simple command-line
-program to keep track of a budget. Written in Elixir
+**[Mini-Journal](https://github.com/justgage/mini-journal)** -
+command-line based journaling program that allows you to easily catch up
+any missed days, written in OCaml
 
-*More on my Github*
-
-    $ git clone https://github.com/justgage/resume # <- view this resume in Markdown/HTML
+    $ git clone https://github.com/justgage/resume # View this in HTML, PDF, and Markdown.

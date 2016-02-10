@@ -1,8 +1,8 @@
 Thank You for looking at my resume! If Markdown isn't your thing you can find links to other formats of the resume below:
 
-- [PDF](https://github.com/justgage/resume/raw/master/resume-in-many-formats/GageKPetersonsResume.pdf)
+- [PDF](https://github.com/justgage/resume/raw/gh-pages/resume-in-many-formats/GageKPetersonsResume.pdf)
 - [Website (HTML)](http://justgage.github.io/resume/) 
-- [Markdown](https://github.com/justgage/resume/blob/master/resume-in-many-formats/GageKPetersonsResume.md) (without comments at the top)
+- [Markdown](https://github.com/justgage/resume/blob/gh-pages/resume-in-many-formats/GageKPetersonsResume.md) (without comments at the top)
 
 ***
 Résumé of Gage K. Peterson
@@ -70,16 +70,14 @@ June-October 2013
 
 Sample Projects
 ----------------
-**[Mini-Journal](https://github.com/justgage/mini-journal)** - command-line based journaling program that allows you to easily catch up any missed days, written in OCaml
-
 **[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich content editing system using JavaScript and the React.js framework
-
-**[Jarl](https://github.com/justgage/jarl)** - A game made in pure JavaScript and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
 
 **[Budget](https://github.com/justgage/budget)** - A simple command-line program to keep track of a budget. Written in Elixir
 
-_More on my Github_
+**[Jarl](https://github.com/justgage/jarl)** - A game made in pure JavaScript and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
+
+**[Mini-Journal](https://github.com/justgage/mini-journal)** - command-line based journaling program that allows you to easily catch up any missed days, written in OCaml
 
 ```
-$ git clone https://github.com/justgage/resume # <- view this resume in Markdown/HTML
+$ git clone https://github.com/justgage/resume # View this in HTML, PDF, and Markdown.
 ```
