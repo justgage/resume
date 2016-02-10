@@ -62,7 +62,7 @@ June-October 2013
 
 Sample Projects
 ----------------
-**[Mini-Journal](https://github.com/justgage/mini-journal)** - commandline based journaling program that allows you to easily catch up any missed days, written in OCaml
+**[Mini-Journal](https://github.com/justgage/mini-journal)** - command line based journaling program that allows you to easily catch up any missed days, written in OCaml
 
 **[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich content editing system using JavaScript and the React.js framework
 
