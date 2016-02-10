@@ -46,6 +46,7 @@ January 2016-Present
 
 ###BYU-Idaho - Teacher's Assistant 
 September-December 2015
+
 - Graded and Tutored on Data Structures and Object Oriented Development assignments
 
 ###Instructure - Software Engineering Intern
@@ -53,7 +54,7 @@ May-September 2015
 
 - Created a new van pool coordination system to replace a manual process
 - Created a Google Analytics adapter that worked in React and Ember
-- Presented 2 technical talks on functional programming principles
+- Presented two technical talks on functional programming principles
 
 
 ###Kyäni - Software Engineering Intern
