@@ -40,7 +40,7 @@ development, Networking, Algorithms and Complexity
 Skills
 ------
 
-JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Clojure
+JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Git
 
 Job Experience
 --------------
@@ -92,4 +92,9 @@ content editing system using JavaScript and the React.js framework
 JavaScript and CSS3 transitions for the js13KGames competition. It uses
 prototypal inheritance heavily
 
-    git clone https://github.com/justgage/resume
+**[Budget](https://github.com/justgage/budget)** - A simple command-line
+program to keep track of a budget. Written in Elixir
+
+*More on my Github*
+
+    $ git clone https://github.com/justgage/resume # <- view this resume in Markdown/HTML

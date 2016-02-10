@@ -34,7 +34,7 @@ Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web developm
 
 Skills
 ------
-JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Clojure
+JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Git
 
 Job Experience
 --------------
@@ -75,6 +75,10 @@ Sample Projects
 
 **[Jarl](https://github.com/justgage/jarl)** - A game made in pure JavaScript and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
 
+**[Budget](https://github.com/justgage/budget)** - A simple command-line program to keep track of a budget. Written in Elixir
+
+_More on my Github_
+
 ```
-git clone https://github.com/justgage/resume
+$ git clone https://github.com/justgage/resume # <- view this resume in Markdown/HTML
 ```
