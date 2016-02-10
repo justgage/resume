@@ -20,7 +20,7 @@ Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web developm
 
 ####Software Development Projects:
 
-- [**SENIOR PROJECT: CogLang**](https://github.com/justgage/cog-lang) - A programing language interpeter. Written in OCaml
+- [**SENIOR PROJECT: CogLang**](https://github.com/justgage/cog-lang) - A programming language interpreter, Written in OCaml
 - [**Sudoku solver**](https://github.com/justgage/AI/tree/master/project1) - A Sudoku solver that uses backtracking and arc-consistency. Written in ELisp
 - [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants. Written in Java
 - [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web application created with two other students that tracked food allergies. Written in Java
@@ -62,7 +62,7 @@ June-October 2013
 
 Sample Projects
 ----------------
-**[Mini-Journal](https://github.com/justgage/mini-journal)** - command line based journaling program that allows you to easily catch up any missed days, written in OCaml
+**[Mini-Journal](https://github.com/justgage/mini-journal)** - command-line based journaling program that allows you to easily catch up any missed days, written in OCaml
 
 **[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich content editing system using JavaScript and the React.js framework
 

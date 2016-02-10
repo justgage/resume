@@ -25,8 +25,8 @@ development, Networking, Algorithms and Complexity
 #### Software Development Projects:
 
 -   [**SENIOR PROJECT:
-    CogLang**](https://github.com/justgage/cog-lang) - A programing
-    language interpeter. Written in OCaml
+    CogLang**](https://github.com/justgage/cog-lang) - A programming
+    language interpreter, Written in OCaml
 -   [**Sudoku
     solver**](https://github.com/justgage/AI/tree/master/project1) - A
     Sudoku solver that uses backtracking and arc-consistency. Written in
@@ -83,7 +83,7 @@ Sample Projects
 ---------------
 
 **[Mini-Journal](https://github.com/justgage/mini-journal)** -
-commandline based journaling program that allows you to easily catch up
+command-line based journaling program that allows you to easily catch up
 any missed days, written in OCaml
 
 **[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich
