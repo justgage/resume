@@ -114,6 +114,23 @@ code {
    border-radius: 10px;
 }
 
+@media screen and (max-width: 900px) {
+   body {
+      width: auto;
+      padding: 3em;
+      margin: 0;
+   }
+
+   h1 {
+      font-size: 2em;
+      margin-left:-0.5em;
+   }
+
+   h2, h3, h4, h5 {
+      font-size: 1.2em;
+   }
+}
+
 @media print {
    * {
       color: black !important;
