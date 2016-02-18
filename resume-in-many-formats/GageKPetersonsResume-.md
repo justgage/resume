@@ -63,7 +63,7 @@ September-December 2015
 
 May-September 2015
 
--   Improved reporting by implementing a abstraction over Google
+-   Improved reporting by implementing an abstraction over Google
     Analytics that worked both with **React.js** and **Ember.js** in the
     single-page application
 -   Eased the pain of coordinating who was riding on the vanpool by
@@ -77,7 +77,7 @@ May-September 2015
 
 September-October 2013
 
--   Increased the usability of a costumer facing page by rewriting it as
+-   Increased the usability of a customer facing page by rewriting it as
     an interactive single-page application. Written in **JavaScript.**
 -   Encouraged a culture of code reviews by holding the first one
     reviewing my own code
@@ -87,9 +87,9 @@ September-October 2013
 June-October 2013
 
 -   Improved the buying experience of costumers by developing an
-    e-commerce website that allowed users to easily find essential oils
+    ecommerce website that allowed users to easily find essential oils
     by illness and have a streamlined checkout process with PayPal.
-    Written in **PHP** utalizing the **Laravel 4.0** framework.
+    Written in **PHP** utilizing the **Laravel 4.0** framework.
 
 Sample Projects
 ---------------

@@ -49,20 +49,20 @@ September-December 2015
 ###Instructure - Software Engineering Intern
 May-September 2015
 
-- Improved reporting by implementing a abstraction over Google Analytics that worked both with **React.js** and **Ember.js** in the single-page application
+- Improved reporting by implementing an abstraction over Google Analytics that worked both with **React.js** and **Ember.js** in the single-page application
 - Eased the pain of coordinating who was riding on the vanpool by creating an web application that allowed users to easily see if the vans had a driver and who was going. Written in **Elixir**.
 - Educated on practical ways to use **Functional Programing** to write more _modular_ code and _testable_ code by giving two Technical presentations.
 
 ###Kyäni - Software Engineering Intern
 September-October 2013
 
-- Increased the usability of a costumer facing page by rewriting it as an interactive single-page application. Written in **JavaScript.**
+- Increased the usability of a customer facing page by rewriting it as an interactive single-page application. Written in **JavaScript.**
 - Encouraged a culture of code reviews by holding the first one reviewing my own code
 
 ###Butterfly Oils - Software Developer
 June-October 2013
 
-- Improved the buying experience of costumers by developing an e-commerce website that allowed users to easily find essential oils by illness and have a streamlined checkout process with PayPal. Written in **PHP** utalizing the **Laravel 4.0** framework.
+- Improved the buying experience of costumers by developing an ecommerce website that allowed users to easily find essential oils by illness and have a streamlined checkout process with PayPal. Written in **PHP** utilizing the **Laravel 4.0** framework.
 
 Sample Projects
 ----------------
