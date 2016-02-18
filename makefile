@@ -15,7 +15,7 @@ md:
 	cat $(comment) $(source) >  README.md
 
 html: md
-	pandoc -s -S -T "Resume of Gage K. Peterson" -c style.css -s $(source) -o $(dest_name).html
+	pandoc -s -S -T "Gage K. Peterson - Resume" -c style.css -s $(source) -o $(dest_name).html
 	cp $(dest_name).html index.html
 
 pdf:

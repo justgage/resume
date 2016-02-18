@@ -5,10 +5,10 @@ Thank You for looking at my resume! If Markdown isn't your thing you can find li
 - [Markdown](https://github.com/justgage/resume/blob/gh-pages/resume-in-many-formats/GageKPetersonsResume.md) (without comments at the top)
 
 ***
-Résumé of Gage K. Peterson
+GAGE K. PETERSON
 =========================
 
-[208-357-6302](tel:208-357-6302) | [GageKPeterson@gmail.com](mailto:gagekpeterson@gmail.com) | [github.com/justgage](https://github.com/justgage/justgage.github.io) | [linkedin.com/in/gagekpeterson](https://www.linkedin.com/in/gagekpeterson)
+> [208-357-6302](tel:208-357-6302) | [GageKPeterson@gmail.com](mailto:gagekpeterson@gmail.com) | [github.com/justgage](https://github.com/justgage/justgage.github.io) | [linkedin.com/in/gagekpeterson](https://www.linkedin.com/in/gagekpeterson)
 
 Education
 ---------

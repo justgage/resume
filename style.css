@@ -1,18 +1,19 @@
 
 * {
-   color: #555;
+   color: #333;
 }
 
 body {
    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
-                 "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", 
-                 Georgia, serif;
+   "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", 
+   Georgia, serif;
    width: 90%;
    max-width: 900px;
-   margin: 0 auto;
+   margin: 5em auto;
    background-color:white;
-   font-size:14px;
+   font-size:15px;
    line-height: 1.5em;
+   letter-spacing: 0.5px;
 }
 
 h1, h2, h3, h4 {
@@ -22,13 +23,20 @@ h1, h2, h3, h4 {
    color: #333;
 }
 
+blockquote {
+   margin:0;
+   text-align: left;
+}
+
 strong {
    color: #B33;
 }
 
 h1 {
-   font-size:2em;
    margin-left: -1em;
+   text-align: left;
+   font-size: 3em;
+   letter-spacing: 0.2em;
 }
 
 /* h2 { */
@@ -97,8 +105,8 @@ p {
 
 code {
    font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida
-                Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation
-                Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+   Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation
+   Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
    background-color: #ccc;
    color: black;
    padding: 1em;
@@ -116,6 +124,7 @@ code {
       width: 90%;
       margin: 0 5%;
       font-size:11px;
+      letter-spacing: 0.5px;
    }
 
    a:hover {
@@ -126,6 +135,11 @@ code {
    a {
       color: black;
       text-decoration:none;
+   }
+
+   h1 {
+      font-size:2em;
+      margin-bottom: 0.2em;
    }
 
    h2 {

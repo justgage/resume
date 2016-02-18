@@ -1,10 +1,11 @@
-Résumé of Gage K. Peterson
-==========================
+GAGE K. PETERSON
+================
 
-[208-357-6302](tel:208-357-6302) |
-[GageKPeterson@gmail.com](mailto:gagekpeterson@gmail.com) |
-[github.com/justgage](https://github.com/justgage/justgage.github.io) |
-[linkedin.com/in/gagekpeterson](https://www.linkedin.com/in/gagekpeterson)
+> [208-357-6302](tel:208-357-6302) |
+> [GageKPeterson@gmail.com](mailto:gagekpeterson@gmail.com) |
+> [github.com/justgage](https://github.com/justgage/justgage.github.io)
+> |
+> [linkedin.com/in/gagekpeterson](https://www.linkedin.com/in/gagekpeterson)
 
 Education
 ---------
