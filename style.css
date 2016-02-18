@@ -1,18 +1,29 @@
+
 * {
-   font-family:serif;
-   font-size:13px;
-   line-height: 1.1em;
+   color: #555;
 }
 
 body {
+   font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida,
+                 "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", 
+                 Georgia, serif;
    width: 90%;
-   margin: 0 5%;
+   max-width: 900px;
+   margin: 0 auto;
+   background-color:white;
+   font-size:14px;
+   line-height: 1.5em;
 }
 
 h1, h2, h3, h4 {
    font-family:bold;
    margin-bottom: 0.5em;
    margin-top: 0.5em;
+   color: #333;
+}
+
+strong {
+   color: #B33;
 }
 
 h1 {
@@ -20,10 +31,48 @@ h1 {
    margin-left: -1em;
 }
 
+/* h2 { */
+/*    font-size:1.5em; */
+/*    margin-left: -1em; */
+/*    border-bottom: 1px solid black; */
+/*    padding-bottom: 0.2em; */
+/* } */
 h2 {
-   font-size:1.5em;
    margin-left: -1em;
-   border-bottom: 1px solid black;
+   display: table;
+   white-space: nowrap;
+   width:100%;
+}
+
+a {
+   color: #B33;
+}
+
+a:visited {
+   color: #B33;
+}
+
+a:hover {
+   color: #F33;
+}
+
+h2 {
+   margin-top:1em;
+   display: table;
+   white-space: nowrap;
+}
+
+h2:after {
+   border-top: 1px solid black;
+   content: '';
+   display: table-cell;
+   position: relative;
+   top: 0.5em;
+   width: 100%;
+}
+
+h2:after {
+   left: 1.5%;
 }
 
 h3 {
@@ -33,16 +82,6 @@ h3 {
 
 h4 {
    font-size:1em;
-}
-
-a {
-   color: black;
-   text-decoration:none;
-}
-
-a:hover {
-   color: black;
-   text-decoration:underline;
 }
 
 ul {
@@ -57,9 +96,40 @@ p {
 }
 
 code {
-   font-family: monospace;
-   background-color: lightgray;
+   font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida
+                Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation
+                Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+   background-color: #ccc;
+   color: black;
    padding: 1em;
    display:block;
    border-radius: 10px;
+}
+
+@media print {
+   * {
+      color: black !important;
+      line-height: 1.3em;
+   }
+
+   body {
+      width: 90%;
+      margin: 0 5%;
+      font-size:11px;
+   }
+
+   a:hover {
+      color: black;
+      text-decoration:underline;
+   }
+
+   a {
+      color: black;
+      text-decoration:none;
+   }
+
+   h2 {
+      margin-top:0.2em;
+      margin-bottom: 0.2em;
+   }
 }

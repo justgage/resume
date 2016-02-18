@@ -21,63 +21,59 @@ Graduating: **July 2016**
 
 **ACM Vice-Chair** - Winter 2015 Semester
 
-####Areas of Interest:
-
-Machine Learning & Data Mining, Artificial Intelligence, Sever-Side Web development, Networking, Algorithms and Complexity
-
 ####Software Development Projects:
 
-- [**SENIOR PROJECT: CogLang**](https://github.com/justgage/cog-lang) - A programming language interpreter, Written in OCaml
-- [**Sudoku solver**](https://github.com/justgage/AI/tree/master/project1) - A Sudoku solver that uses backtracking and arc-consistency. Written in ELisp
-- [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants. Written in Java
-- [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web application created with two other students that tracked food allergies. Written in Java
+- [**SENIOR PROJECT: CogLang**](https://github.com/justgage/cog-lang) - A programming language interpreter, Written in **OCaml**
+- [**Sudoku solver**](https://github.com/justgage/AI/tree/master/project1) - A Sudoku solver that uses backtracking and arc-consistency. Written in **ELisp**
+- [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A inventory tracking system for restaurants. Written in **Java**
+- [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web application created with two other students that tracked food allergies. Written in **Java**
 
 Skills
 ------
-JavaScript, React.js, C++, OCaml, Ruby, Java, Python, Elixir, Git
+JavaScript, React.js, C++, OCaml, Java, Ruby, Python, Elixir, Git
 
 Job Experience
 --------------
 
-###Sterling Medical - Software Developer
-January 2016-Present
+###Sterling Medical - Contract Software Developer
+January 2016-February 2016
 
-- Developing a mobile app using the Ionic framework
+- Improving the build process of a mobile-app written in **JavaScript** using Ionic Framework (**Angular 1** on top of **Cordova**).
 
 ###BYU-Idaho - Teacher's Assistant 
 September-December 2015
 
-- Graded and Tutored on Data Structures and Object Oriented Development assignments
+- Eased the burden of College Professor by grading and tutoring the subjects of _Data Structures_ and _Object Oriented Development_ **C++** assignments
+- Improved course material by finding better tutorial videos and articles
 
 ###Instructure - Software Engineering Intern
 May-September 2015
 
-- Created a new van pool coordination system to replace a manual process
-- Created a Google Analytics adapter that worked in React and Ember
-- Presented two technical talks on functional programming principles
-
+- Improved reporting by implementing a abstraction over Google Analytics that worked both with **React.js** and **Ember.js** in the single-page application
+- Eased the pain of coordinating who was riding on the vanpool by creating an web application that allowed users to easily see if the vans had a driver and who was going. Written in **Elixir**.
+- Educated on practical ways to use **Functional Programing** to write more _modular_ code and _testable_ code by giving two Technical presentations.
 
 ###Kyäni - Software Engineering Intern
 September-October 2013
 
-- Initiated usability tests in the design process
-- Authored a multilingual, single-page application in JavaScript
+- Increased the usability of a costumer facing page by rewriting it as an interactive single-page application. Written in **JavaScript.**
+- Encouraged a culture of code reviews by holding the first one reviewing my own code
 
 ###Butterfly Oils - Software Developer
 June-October 2013
 
-- Independently developed a content management system for selling essential oils
+- Improved the buying experience of costumers by developing an e-commerce website that allowed users to easily find essential oils by illness and have a streamlined checkout process with PayPal. Written in **PHP** utalizing the **Laravel 4.0** framework.
 
 Sample Projects
 ----------------
-**[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich content editing system using JavaScript and the React.js framework
+**[TextBoxes](https://github.com/justgage/textboxes)** - A modular rich content editing system using **JavaScript** and **React.js**
 
-**[Budget](https://github.com/justgage/budget)** - A simple command-line program to keep track of a budget. Written in Elixir
+**[Budget](https://github.com/justgage/budget)** - A simple command-line program to keep track of a budget. Written in **Elixir**
 
-**[Jarl](https://github.com/justgage/jarl)** - A game made in pure JavaScript and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
+**[Jarl](https://github.com/justgage/jarl)** - A game made in pure **JavaScript** and CSS3 transitions for the js13KGames competition. It uses prototypal inheritance heavily
 
-**[Mini-Journal](https://github.com/justgage/mini-journal)** - command-line based journaling program that allows you to easily catch up any missed days, written in OCaml
+**[Mini-Journal](https://github.com/justgage/mini-journal)** - command-line based journaling program that allows you to easily catch up any missed days, written in **OCaml**
 
 ```
-$ git clone https://github.com/justgage/resume # View this in HTML, PDF, and Markdown.
+$ git clone https://github.com/justgage/resume # View this in PDF and Markdown.
 ```
