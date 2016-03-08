@@ -51,7 +51,7 @@ May-September 2015
 
 - Improved reporting by implementing an abstraction over Google Analytics that worked both with **React.js** and **Ember.js** in the single-page application
 - Eased the pain of coordinating who was riding on the vanpool by creating an web application that allowed users to easily see if the vans had a driver and who was going. Written in **Elixir**.
-- Educated on practical ways to use **Functional Programing** to write more _modular_ code and _testable_ code by giving two Technical presentations.
+- Educated on practical ways to use **Functional Programming** to write more _modular_ code and _testable_ code by giving two Technical presentations.
 
 ###Kyäni - Software Engineering Intern
 September-October 2013

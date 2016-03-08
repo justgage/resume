@@ -30,8 +30,8 @@ Graduating: **July 2016**
 -   [**FoodNanny**](https://bitbucket.org/teamfood/foodnanny) - A
     inventory tracking system for restaurants. Written in **Java**
 -   [**FoodNotes**](https://github.com/justgage/FoodNotes) - A web
-    application created with two other students that tracked
-    food allergies. Written in **Java**
+    application created with two other students that tracked food
+    allergies. Written in **Java**
 
 Skills
 ------
@@ -69,8 +69,8 @@ May-September 2015
 -   Eased the pain of coordinating who was riding on the vanpool by
     creating an web application that allowed users to easily see if the
     vans had a driver and who was going. Written in **Elixir**.
--   Educated on practical ways to use **Functional Programing** to write
-    more *modular* code and *testable* code by giving two
+-   Educated on practical ways to use **Functional Programming** to
+    write more *modular* code and *testable* code by giving two
     Technical presentations.
 
 ### Kyäni - Software Engineering Intern
