@@ -1,4 +1,4 @@
-# Gages Qualities of a Excellent Software Developer
+# Gages Qualities of an Excellent Software Developer
 
 ##Education
 - Avoid getting comfortable by immersing yourself in a topic that makes you feel dumb
