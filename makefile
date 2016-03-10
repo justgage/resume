@@ -6,7 +6,7 @@
 ##################################################
 source = draft/resume.md
 comment = draft/comment.md
-dest_name = resume-in-many-formats/GageKPetersonsResume-$(date +%Y-%m-%d)
+dest_name = resume-in-many-formats/GageKPetersonsResume
 
 build: md html
 
