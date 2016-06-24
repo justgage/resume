@@ -35,11 +35,6 @@ JavaScript, React.js, C++, OCaml, Java, Ruby, Python, Elixir, Git
 Job Experience
 --------------
 
-###Sterling Medical - Contract Software Developer
-January 2016-February 2016
-
-- Improving the build process of a mobile-app written in **JavaScript** using Ionic Framework (**Angular 1** on top of **Cordova**).
-
 ###BYU-Idaho - Teacher's Assistant 
 September-December 2015
 
