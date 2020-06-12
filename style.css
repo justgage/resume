@@ -131,6 +131,11 @@ h2 {
 a {
   color: rgb(0, 143, 136);
   text-decoration: none;
+  transition: background 0.125s ease-in-out;
+  background: -webkit-linear-gradient(rgb(5, 218, 207), rgb(17, 14, 228));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 a:visited {
@@ -138,8 +143,10 @@ a:visited {
 }
 
 a:hover {
-  color: rgb(5, 218, 207);
-  text-decoration: underline;
+  background: -webkit-linear-gradient(rgb(5, 218, 207), rgb(228, 14, 199));
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 h2 {
@@ -153,7 +160,7 @@ h2:after {
   content: '';
   display: table-cell;
   position: relative;
-  top: 0.5em;
+  top: 1.5rem;
   width: 100%;
 }
 
@@ -242,6 +249,8 @@ code {
 .tech-icon {
   width: 15px;
   height: 15px;
+  margin-left: 8px;
+  margin-right: 2px;
 }
 
 .print-only {
