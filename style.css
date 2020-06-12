@@ -1,27 +1,20 @@
-* {
-  color: #333;
-}
-
 body {
-  font-family: Constantia, 'Lucida Bright', Lucidabright, 'Lucida Serif', Lucida,
-    'DejaVu Serif', 'Bitstream Vera Serif', 'Liberation Serif', Georgia, serif;
+  font-family: 'Raleway', sans-serif;
   width: 90%;
   max-width: 900px;
   margin: 5em auto;
   background-color: white;
-  font-size: 15px;
   line-height: 1.5em;
-  letter-spacing: 0.5px;
+  color: #333;
 }
 
 h1,
 h2,
 h3,
 h4 {
-  font-family: bold;
+  font-family: 'Playfair Display', serif;
   margin-bottom: 0.5em;
   margin-top: 0.5em;
-  color: #333;
 }
 
 blockquote {
@@ -33,15 +26,8 @@ h1 {
   margin-left: -1em;
   text-align: left;
   font-size: 3em;
-  letter-spacing: 0.2em;
 }
 
-/* h2 { */
-/*    font-size:1.5em; */
-/*    margin-left: -1em; */
-/*    border-bottom: 1px solid black; */
-/*    padding-bottom: 0.2em; */
-/* } */
 h2 {
   margin-left: -1em;
   display: table;
@@ -90,8 +76,8 @@ h4 {
 }
 
 ul {
-  margin-top: 0em;
-  margin-bottom: 0em;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 p {
@@ -101,10 +87,8 @@ p {
 
 code {
   font-family: Consolas, 'Andale Mono WT', 'Andale Mono', 'Lucida Console',
-    'Lucida
-   Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
-    'Liberation
-   Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier,
+    'Lucida' 'Sans Typewriter', 'DejaVu Sans Mono', 'Bitstream Vera Sans Mono',
+    'Liberation Mono', 'Nimbus Mono L', Monaco, 'Courier New', Courier,
     monospace;
   background-color: #ccc;
   color: black;
